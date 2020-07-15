@@ -1,0 +1,26 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "This generate a readme file when used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdonnyt8/readme_generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Don Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdonnyt8/readme_generator/issues"
+  },
+  "homepage": "https://github.com/xdonnyt8/readme_generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.2"
+  }
+}
