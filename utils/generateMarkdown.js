@@ -13,6 +13,7 @@ function generateMarkdown(data) {
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Github](#Github)
+* [Email](#Email)
 
 # Authors
 ### ${data.authors}
@@ -48,6 +49,11 @@ function generateMarkdown(data) {
 
 # Github
 ### The link to your github account is https://www.github.com/${data.github}
+
+# Email
+### Email me @ ${data.email} if you have any questions.
+
+
 
 `;
 }

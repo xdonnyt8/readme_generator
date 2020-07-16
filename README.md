@@ -11,6 +11,7 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Github](#Github)
+* [Email](#Email)
 
 # Authors
 ### Don Tran
@@ -33,7 +34,7 @@
 
 
 # Contributions
-### nothing
+### Nope
 
 
 # Test
@@ -46,4 +47,9 @@
 
 # Github
 ### The link to your github account is https://www.github.com/xdonnyt8
+
+# Email
+### Email me @ mr.dontran@gmail.com if you have any questions.
+
+
 
