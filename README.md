@@ -1,8 +1,8 @@
 
-
 # **My Readme Generator**
 
-# Table of Content
+# **_Table of Content_**
+* [Authors](#Authors)
 * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -12,33 +12,38 @@
 * [Questions](#Questions)
 * [Github](#Github)
 
-# **Description**
-### This project is run on node which will generate a read me file when run
+# Authors
+### Don Tran
 
 
-# **Installation**
-### npm i
+# Description
+### This is a readme generator that is run on node
 
 
-# **Usage**
-### node index.js
+# Installation
+### type in terminal 'npm i'
 
 
-# **Licenses**
-### not right now
+# Usage
+### type in terminal 'node index.js'
 
 
-# **Contributions**
+# Licenses
+### none
+
+
+# Contributions
 ### nothing
 
 
-# **Test**
-### node index.js
+# Test
+### type in terminal 'node index.js'
 
 
-# **Questions**
-### none
+# Questions
+### Nope
 
-# **Github**
+
+# Github
 ### The link to your github account is https://www.github.com/xdonnyt8
 

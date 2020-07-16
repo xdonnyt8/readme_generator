@@ -1,54 +1,52 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # Table of Content
-  * [Title](#Title)
-  * [Authors](#Authors)
-  * [Description](#Description)
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#Licenses)
-  * [Contributions](#Contributions)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
-  * [Github](#Github)
+# **${data.title}**
 
-# **Title**
-###${data.title}
+# **_Table of Content_**
+* [Authors](#Authors)
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#Licenses)
+* [Contributions](#Contributions)
+* [Tests](#Tests)
+* [Questions](#Questions)
+* [Github](#Github)
 
-# **Authors**
-###${data.authors}
+# Authors
+### ${data.authors}
 
 
-# **Description**
+# Description
 ### ${data.description}
 
 
-# **Installation**
+# Installation
 ### ${data.install}
 
 
-# **Usage**
+# Usage
 ### ${data.usage}
 
 
-# **Licenses**
+# Licenses
 ### ${data.license}
 
 
-# **Contributions**
+# Contributions
 ### ${data.contribution}
 
 
-# **Test**
+# Test
 ### ${data.test}
 
 
-# **Questions**
+# Questions
 ### ${data.question}
 
 
-# **Github**
+# Github
 ### The link to your github account is https://www.github.com/${data.github}
 
 `;
