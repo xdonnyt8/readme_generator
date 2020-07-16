@@ -21,6 +21,7 @@
   "homepage": "https://github.com/xdonnyt8/readme_generator#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inquirer": "^7.3.2"
+    "inquirer": "^7.3.2",
+    "path": "^0.12.7"
   }
 }
